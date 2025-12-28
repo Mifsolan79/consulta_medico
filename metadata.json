@@ -1,0 +1,5 @@
+{
+  "name": "FarmaConsejo AI",
+  "description": "Un asistente inteligente que te ayuda a diferenciar entre medicamentos comunes (Paracetamol, Ibuprofeno, etc.) según tus síntomas. *No sustituye consejos médicos profesionales.*",
+  "requestFramePermissions": []
+}
